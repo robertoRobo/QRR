@@ -1,0 +1,11 @@
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\bin\Debug\netstandard2.0\QRR.deps.json
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\bin\Debug\netstandard2.0\QRR.dll
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\obj\Debug\netstandard2.0\QRR.csprojResolveAssemblyReference.cache
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\obj\Debug\netstandard2.0\QRR.csproj.CoreCompileInputs.cache
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\obj\Debug\netstandard2.0\QRR.App.xaml.g.cs
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\obj\Debug\netstandard2.0\QRR.MainPage.xaml.g.cs
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\obj\Debug\netstandard2.0\QRR.AssemblyInfoInputs.cache
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\obj\Debug\netstandard2.0\QRR.AssemblyInfo.cs
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\bin\Debug\netstandard2.0\QRR.pdb
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\obj\Debug\netstandard2.0\QRR.dll
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR\obj\Debug\netstandard2.0\QRR.pdb
