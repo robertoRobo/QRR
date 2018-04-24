@@ -109,6 +109,7 @@ class MonoPackageManager_Resources {
 		"QRR.Android.dll",
 		"FastAndroidCamera.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"QRR.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",

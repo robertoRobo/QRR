@@ -13,17 +13,31 @@ namespace QRR
 	public partial class MainPage : ContentPage
 	{
         ZXingBarcodeImageView barcode;
+
+
+        
         public MainPage()
 		{
-			InitializeComponent();
-		}
-        private void Button_Clicked(object sender, EventArgs e)
+            InitializeComponent();
+        }
+        
+        private void Button_Clicked1(object sender, EventArgs e)
+        {
+            var viewModel = BindingContext;
+
+            BindingContext = null;
+            InitializeComponent();
+
+            BindingContext = viewModel;
+            
+        }
+            private void Button_Clicked(object sender, EventArgs e)
         {
             try
             {
-
                 if (contentEntry.Text != string.Empty)
                 {
+                    
                     
                     barcode = new ZXingBarcodeImageView
                     {
@@ -40,8 +54,6 @@ namespace QRR
                 {
                     DisplayAlert("Alert", "Introduzca el valor que desea convertir código QR", "OK");
                 }
-
-
             }
             catch (Exception ex)
             {
@@ -49,21 +61,7 @@ namespace QRR
                 DisplayAlert("Alert", "Introduzca el valor que desea convertir código QR", "OK");
             }
         }
-        private const string Url = "http://www.nactem.ac.uk/software/acromine/dictionary.py?sf={0}";
 
-        public async Task<string> GetResultAsync(string SearchString)
-        {
-            try
-            {
-                var client = new HttpClient();
-                var json = await client.GetStringAsync(string.Format(Url, SearchString));
-                return json.ToString();
-            }
-            catch (System.Exception exception)
-            {
-                return null;
-            }
-
-        }
+   
     }
 }

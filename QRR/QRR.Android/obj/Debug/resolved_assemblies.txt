@@ -4,6 +4,7 @@ C:\Users\RobertoVR\Desktop\QRR\QRR\QRR.Android\obj\Debug\android\assets\FormsVie
 C:\Users\RobertoVR\Desktop\QRR\QRR\QRR.Android\obj\Debug\android\assets\Java.Interop.dll
 C:\Users\RobertoVR\Desktop\QRR\QRR\QRR.Android\obj\Debug\android\assets\Mono.Android.dll
 C:\Users\RobertoVR\Desktop\QRR\QRR\QRR.Android\obj\Debug\android\assets\mscorlib.dll
+C:\Users\RobertoVR\Desktop\QRR\QRR\QRR.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
 C:\Users\RobertoVR\Desktop\QRR\QRR\QRR.Android\obj\Debug\android\assets\QRR.dll
 C:\Users\RobertoVR\Desktop\QRR\QRR\QRR.Android\obj\Debug\android\assets\System.Core.dll
 C:\Users\RobertoVR\Desktop\QRR\QRR\QRR.Android\obj\Debug\android\assets\System.dll

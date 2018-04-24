@@ -35,7 +35,7 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Xamarin.Forms/2.5.0.122203": {
+      "Xamarin.Forms/2.5.1.444934": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/Xamarin.Forms.Core.dll": {},
@@ -250,10 +250,10 @@
         "newtonsoft.json.nuspec"
       ]
     },
-    "Xamarin.Forms/2.5.0.122203": {
-      "sha512": "qg7A2IXbVV/5u9qqeiDhRMwpVEsbWKBxzeAtD0rTuntmaDB1Z7WuBg5IK2VBklJbKe2Ps8V9zBfEwgJIqPVJUw==",
+    "Xamarin.Forms/2.5.1.444934": {
+      "sha512": "zDbZeFhh62l6cMG9dXrQ/CSbk+NxKAykeL+JcVxLn//Rx678sCa961F+ib0gqzNHkTmT1K3TPLlJZp5WjvnKVA==",
       "type": "package",
-      "path": "xamarin.forms/2.5.0.122203",
+      "path": "xamarin.forms/2.5.1.444934",
       "files": [
         "build/netstandard1.0/Mono.Cecil.Mdb.dll",
         "build/netstandard1.0/Mono.Cecil.Pdb.dll",
@@ -432,7 +432,7 @@
         "lib/wpa81/Xamarin.Forms.Platform.dll",
         "lib/wpa81/Xamarin.Forms.Xaml.dll",
         "lib/wpa81/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.2.5.0.122203.nupkg.sha512",
+        "xamarin.forms.2.5.1.444934.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -481,7 +481,7 @@
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.1",
       "Newtonsoft.Json >= 11.0.2",
-      "Xamarin.Forms >= 2.5.0.122203",
+      "Xamarin.Forms >= 2.5.1.444934",
       "ZXing.Net.Mobile >= 2.4.1",
       "ZXing.Net.Mobile.Forms >= 2.4.1"
     ]
@@ -545,7 +545,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[2.5.0.122203, )"
+            "version": "[2.5.1.444934, )"
           },
           "ZXing.Net.Mobile": {
             "target": "Package",

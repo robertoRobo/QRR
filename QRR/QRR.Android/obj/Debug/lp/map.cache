@@ -30,3 +30,4 @@ System.Reflection.Extensions
 ZXing.Net.Mobile.Core
 zxing.portable
 ZXingNetMobile
+Newtonsoft.Json
