@@ -13,7 +13,8 @@
                 <Button Text="Generar QR" HorizontalOptions="FillAndExpand" BackgroundColor="#2196F3" TextColor="White" Clicked="Button_Clicked"/>
                 <Button Text="reload" HorizontalOptions="FillAndExpand" BackgroundColor="#2196F3" TextColor="White" Clicked="Button_Clicked1"/>
             </StackLayout>
-            <ContentView x:Name="qrResult" />
+            <ContentView x:Name="qrResult"                        
+                         />
         </StackLayout>
     </ScrollView>
 

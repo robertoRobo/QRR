@@ -19,6 +19,7 @@ namespace QRR
         public MainPage()
 		{
             InitializeComponent();
+            
         }
         
         private void Button_Clicked1(object sender, EventArgs e)
@@ -45,10 +46,12 @@ namespace QRR
                         VerticalOptions = LayoutOptions.FillAndExpand,
                     };
                     barcode.BarcodeFormat = ZXing.BarcodeFormat.QR_CODE;
-                    barcode.BarcodeOptions.Width = 500;
-                    barcode.BarcodeOptions.Height = 500;
+                    barcode.BarcodeOptions.Width = 800;
+                    barcode.BarcodeOptions.Height = 800;
                     barcode.BarcodeValue = contentEntry.Text.Trim();
                     qrResult.Content = barcode;
+                    qrResult.WidthRequest = 100;
+                    qrResult.HeightRequest = 100;
                 }
                 else
                 {
